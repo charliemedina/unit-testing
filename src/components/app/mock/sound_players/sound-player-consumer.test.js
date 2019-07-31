@@ -1,4 +1,4 @@
-import { mockPlaySoundFile } from "./_mocks_/sound-player";
+import { mockPlaySoundFile } from "../_mocks_/sound-player";
 import SoundPlayer from "./sound-player";
 import SoundPlayerConsumer from "./sound-player-consumer";
 

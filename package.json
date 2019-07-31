@@ -15,6 +15,7 @@
     "jquery": "^3.4.1",
     "material-table": "^1.39.2",
     "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
     "node-polyglot": "^2.3.0",
     "popper.js": "^1.15.0",
     "prop-types": "latest",
@@ -33,6 +34,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
     "react-select": "^3.0.4",
+    "react-test-renderer": "^16.8.6",
     "redux": "^4.0.1",
     "redux-form": "^8.2.3",
     "redux-form-validators": "^3.3.2",
@@ -50,6 +52,7 @@
     "eslint-fix": "eslint src/**/*.js --fix"
   },
   "devDependencies": {
+    "@testing-library/react": "^8.0.7",
     "@types/jest": "^24.0.15",
     "cypress": "^3.3.2",
     "enzyme": "^3.10.0",
